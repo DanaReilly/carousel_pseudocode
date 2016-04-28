@@ -3,8 +3,6 @@ var images=['images/image_1.jpg', 'images/image_2.jpg', 'images/image_3.jpg', 'i
 
 var currentPosition = 0;
 
-var votes = [0,0,0,0,0,0];
-
 $('#next').on('click', function () {
 
 	currentPosition += 1;

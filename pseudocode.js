@@ -4,7 +4,6 @@
 
 // Set a variable for the current position(index) and give it an initial value of 0
 
-// Set an array for votes
 
 // EVENTS ---------
 
@@ -30,5 +29,5 @@
 	// Update the src attribute to the urls that is stored at the current position in the array
 
 	// If we are on the first image
-	
+
 		// Disable the previous button

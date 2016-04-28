@@ -6,8 +6,6 @@ var images=['images/image_1.jpg', 'images/image_2.jpg', 'images/image_3.jpg', 'i
 // Set a variable for the current position(index) and give it an initial value of 0
 var currentPosition = 0;
 
-// Set an array for votes
-var votes = [0,0,0,0,0,0];
 
 // EVENTS ---------
 
